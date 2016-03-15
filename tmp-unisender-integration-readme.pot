@@ -1,0 +1,152 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "UniSender Integration"
+msgstr ""
+
+#. Short description.
+msgid "WordPress Integration with UniSender"
+msgstr ""
+
+#. Found in description header.
+msgid "Functionality"
+msgstr ""
+
+#. Found in description list item.
+msgid "Автоматическая отправка приветственного письма, после заполнения формы"
+msgstr ""
+
+#. Found in description list item.
+msgid "Загрузка существующей базы клиентов"
+msgstr ""
+
+#. Found in description list item.
+msgid "Подробные отчеты (подписки, процент открытий писем, количество переходов, карта кликов, месторасположение подписчиков и многое др.)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Сегментация списков подписчиков"
+msgstr ""
+
+#. Found in description list item.
+msgid "Бесплатные готовые шаблоны для рассылки писем"
+msgstr ""
+
+#. Found in description list item.
+msgid "Возможность совмещать email и SMS рассылки"
+msgstr ""
+
+#. Found in description list item.
+msgid "Удобный блочный редактор - поможет создать красивые и простые письма"
+msgstr ""
+
+#. Found in description list item.
+msgid "Планировщик рассылки. Осуществляет рассылку по заранее назначенному времени и дате"
+msgstr ""
+
+#. Found in description list item.
+msgid "Возможность проводить A/B тестирование"
+msgstr ""
+
+#. Found in description list item.
+msgid "Бесплатный курс email-маркетинга от Академии продающих писем"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Плагин UniSender для WordPress позволит вам создавать привлекательную форму подписки для людей, которые пришли на ваш сайт, что позволит значительно увеличить базу лояльных клиентов."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"С плагином UniSender вы легко и быстро сможете создать форму подписки и установить её на свой сайт или блог.\n"
+"Данные о подписчиках будут автоматически сохраняться и сегментироваться в вашем аккаунте UniSender (http://www.UniSender.com/)."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "UniSender – это быстрый и надежный сервис отправки массовых Email и SMS рассылок."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Позволяет создавать профессиональные электронные письма, выполнять надежную рассылку, сегментировать аудиторию и анализировать результаты рассылки."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Основные возможности подключения к UniSender:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Сейчас вы можете получить аккаунт UniSender с возможностью бесплатно отправить 1500 писем для 100 абонентов каждый месяц."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Регистрация займет всего 2 минуты (http://www.unisender.com/ru/account/register/)"
+msgstr ""
+
+#. Found in installation header.
+msgid "Автоматическая установка"
+msgstr ""
+
+#. Found in installation header.
+msgid "Ручная установка"
+msgstr ""
+
+#. Found in installation header.
+msgid "Автоматическое обновление"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Автоматическая установка - простой и удобный вариант. Для этого необходимо в админ-панели WordPress перейти на страницу управления Плагинами и нажать кнопку \"Добавить новый\"."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "В поле поиска ввести \"UniSender\", выбрать в результатах плагин \"UniSender Integration\" и нажать кнопку \"Установить\""
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Для установки плагина вручную, Вам необходимо скачать архив плагина с <a href=\"https://wordpress.org/plugins/unisender-integration/\">его официальной страницы</a>."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Далее в админ-панели WordPress перейти на страницу управления Плагинами и нажать кнопку \"Добавить новый\"."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Нажать кнопку \"Загрузить плагин\", прикрепить архив, установить и активировать."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Автообновление плагина происходит по стандартному сценарию WordPress. После появления новой версии плагина, Вы увидите сообщение об этом в админ-панели - нажмите на него и следуйте инструкциям."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Исправлена ошибка при установке на версиях php ниже 5.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Управление списками контактов."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Управление дополнительными полями."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Управление формой подписки."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "2.0.3"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "2.0.0"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Добавлен функционал:"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Обновлен функционал:"
+msgstr ""
